@@ -1,0 +1,2 @@
+# Deployment Service
+Service for interacting with hosting provider service (Digital Ocean, AWS, Google Cloud, Bare Metal) to manage VPSs around the globe. Additionally, it interacts with the Kubernetes Service to scale clusters accordingly.
